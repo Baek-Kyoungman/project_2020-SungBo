@@ -20,6 +20,6 @@ product: Generic
 ## 소개
 defaults:
   - scope:
-      path: "/_docs/images"
+      path: "/_docs/images/fe1.png"
     values:
       image: true
