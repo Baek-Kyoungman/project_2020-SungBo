@@ -18,5 +18,4 @@ product: Generic
 초보자들을 위한 버전을 작업하고 있으며 2020년 백엔드 및 데브옵스 로드맵을 완료한 후 출시할 예정입니다.
 
 ## 소개
-<img data-action="zoom" src='{{ "/_docs/images/fe1.png" | relative_url }}' alt='absolute'>
-
+https://ldrerin.tistory.com/448
