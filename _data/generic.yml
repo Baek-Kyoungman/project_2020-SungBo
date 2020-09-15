@@ -1,5 +1,5 @@
 sidebarTitle: Generic sidebar
-owner: tomjohnson1492
+owner: BaekKyoungMan
 
 ## Keep this commented out content because it shows the YAML model for the sidebar.
 
@@ -58,6 +58,160 @@ folders:
   - title: Thing 3
     url: /thing3.html
 
+- title: HTML
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html
+
+
+- title: CSS
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html
+
+- title: JavaScript
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html
+
+- title: SASS
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html
+
+- title: BootStrap
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html       
+
+- title: GitHub
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html  
+
+- title: React
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html  
+
+- title: TypeScript
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html 
+
+- title: 마크다운
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html
+
+- title: Webpack
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html 
+
+- title: UX
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html                      
 ###########################
 
 related_resources_title: Other Resources
