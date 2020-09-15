@@ -1,5 +1,7 @@
-source "https://rubygems.org" # gems.ruby-china.com
+source 'https://rubygems.org'
 
-gemspec
+group :jekyll_plugins do
+  gem 'algoliasearch-jekyll', '~> 0.8.0'
+end
 
-gem "github-pages", group: :jekyll_plugins
+gem 'github-pages'
