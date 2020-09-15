@@ -8,7 +8,6 @@ navbar_singleitems:
 #Topnav dropdowns
 navbar_dropdowns:
 - folders:
-
     - title: Products
       folderitems:
         - title: Theme instructions
@@ -40,13 +39,13 @@ navbar_dropdowns:
 
         - title: Troubleshooting
           url: /tag-troubleshooting.html
-    - title: Other Resources
-      folderitems:
-        - title: Github Repo
-          url: https://github.com/Baek-Kyoungman?tab=repositories
-        - title: Study
-          url: https://baek-kyoungman.github.io/study/
-        - title: instagram
-          url: https://www.instagram.com/bekkm__/?hl=ko
-        - title: facebook
-          url: https://www.facebook.com/profile.php?id=100004832618554
+##    - title: Other Resources
+##      folderitems:
+##        - title: Github Repo
+##          url: https://github.com/Baek-Kyoungman?tab=repositories
+##        - title: Study
+##          url: https://baek-kyoungman.github.io/study/
+##        - title: instagram
+##          url: https://www.instagram.com/bekkm__/?hl=ko
+##        - title: facebook
+##          url: https://www.facebook.com/profile.php?id=100004832618554

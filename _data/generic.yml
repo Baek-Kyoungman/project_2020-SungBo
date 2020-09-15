@@ -86,89 +86,56 @@ folders:
 
 - title: HTML
   folderitems:
-  - title: Home
-    url: /index.html
-
   - title: h1
     url: /h1.html
 
 - title: CSS
   folderitems:
-  - title: Home
-    url: /index.html
-
   - title: Thing 1
     url: /c1.html
 
 - title: JavaScript
   folderitems:
-  - title: Home
-    url: /index.html
-
   - title: Thing 1
     url: /j1.html
 
 - title: SASS
   folderitems:
-  - title: Home
-    url: /index.html
-
   - title: Thing 1
     url: /s1.html
 
 - title: BootStrap
   folderitems:
-  - title: Home
-    url: /index.html
-
   - title: Thing 1
     url: /b1.html
 
 - title: GitHub
   folderitems:
-  - title: Home
-    url: /index.html
-
   - title: Thing 1
     url: /g1.html
 
 - title: React
   folderitems:
-  - title: Home
-    url: /index.html
-
   - title: Thing 1
     url: /r1.html
 
 - title: TypeScript
   folderitems:
-  - title: Home
-    url: /index.html
-
   - title: Thing 1
     url: /t1.html
 
 - title: 마크다운
   folderitems:
-  - title: Home
-    url: /index.html
-
   - title: Thing 1
     url: /m1.html
 
 - title: Webpack
   folderitems:
-  - title: Home
-    url: /index.html
-
   - title: Thing 1
     url: /w1.html
 
 - title: UX
   folderitems:
-  - title: Home
-    url: /index.html
-
   - title: Thing 1
     url: /u1.html
                    
@@ -182,4 +149,13 @@ related_resources_list:
   url: http://jekyllrb.com
 
 - title: Github
-  url: http://github.com
+  url: https://github.com/Baek-Kyoungman
+
+- title: Study
+  url: https://baek-kyoungman.github.io/study/
+
+- title: instagram
+  url: https://www.instagram.com/bekkm__/?hl=ko
+
+- title: facebook
+  url: https://www.facebook.com/profile.php?id=100004832618554
