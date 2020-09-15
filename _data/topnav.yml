@@ -3,7 +3,7 @@
 navbar_singleitems:
 - items:
     - title: Github Repo
-      url: https://github.com/tomjohnson1492/documentation-theme-jekyll-next-version
+      url: https://github.com/Baek-Kyoungman?tab=repositories
 
 #Topnav dropdowns
 navbar_dropdowns:
@@ -43,12 +43,10 @@ navbar_dropdowns:
     - title: Other Resources
       folderitems:
         - title: Github Repo
-          url: https://github.com/tomjohnson1492/documentation-theme-jekyll
-        - title: Jekyll Talk
-          url: https://talk.jekyllrb.com
-        - title: Jekyll documentation
-          url: http://jekyllrb.com/docs/home/
-        - title: Jekyll on Stack Overflow
-          url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Jekyll on my blog
-          url: http://idratherbewriting.com/category-jekyll/
+          url: https://github.com/Baek-Kyoungman?tab=repositories
+        - title: Study
+          url: https://baek-kyoungman.github.io/study/
+        - title: instagram
+          url: https://www.instagram.com/bekkm__/?hl=ko
+        - title: facebook
+          url: https://www.facebook.com/profile.php?id=100004832618554
