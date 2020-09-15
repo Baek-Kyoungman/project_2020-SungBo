@@ -5,19 +5,19 @@ owner: BaekKyoungMan
 ## 사이드바 영역
 
 folders:
-- title: Theme documentation
+- title: Blog
   folderitems:
   - title: Home
     url: /index.html
+
+  - title: 프론트엔드 개발자 로드맵
+    url: /fe.html
 
   - title: Sample 1 really long title that will wrap
     url: /sample1.html
 
   - title: Sample 2 really long title that will wrap even longer
     url: /sample2.html
-
-  - title: Sample 3
-    url: /sample3.html
 
     subfolders:
     - title: Second level deep
