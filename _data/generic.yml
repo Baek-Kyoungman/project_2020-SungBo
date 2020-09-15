@@ -89,15 +89,8 @@ folders:
   - title: Home
     url: /index.html
 
-  - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html
-
+  - title: h1
+    url: /h1.html
 
 - title: CSS
   folderitems:
@@ -105,13 +98,7 @@ folders:
     url: /index.html
 
   - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html
+    url: /c1.html
 
 - title: JavaScript
   folderitems:
@@ -119,13 +106,7 @@ folders:
     url: /index.html
 
   - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html
+    url: /j1.html
 
 - title: SASS
   folderitems:
@@ -133,13 +114,7 @@ folders:
     url: /index.html
 
   - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html
+    url: /s1.html
 
 - title: BootStrap
   folderitems:
@@ -147,13 +122,7 @@ folders:
     url: /index.html
 
   - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html       
+    url: /b1.html
 
 - title: GitHub
   folderitems:
@@ -161,13 +130,7 @@ folders:
     url: /index.html
 
   - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html  
+    url: /g1.html
 
 - title: React
   folderitems:
@@ -175,13 +138,7 @@ folders:
     url: /index.html
 
   - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html  
+    url: /r1.html
 
 - title: TypeScript
   folderitems:
@@ -189,13 +146,7 @@ folders:
     url: /index.html
 
   - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html 
+    url: /t1.html
 
 - title: 마크다운
   folderitems:
@@ -203,13 +154,7 @@ folders:
     url: /index.html
 
   - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html
+    url: /m1.html
 
 - title: Webpack
   folderitems:
@@ -217,13 +162,7 @@ folders:
     url: /index.html
 
   - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html 
+    url: /w1.html
 
 - title: UX
   folderitems:
@@ -231,13 +170,8 @@ folders:
     url: /index.html
 
   - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html                      
+    url: /u1.html
+                   
 ###########################
 
 related_resources_title: Other Resources
