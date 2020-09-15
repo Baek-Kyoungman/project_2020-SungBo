@@ -44,92 +44,47 @@ folders:
           - title: Sub-sublevel 3
             url: /subsublevel3.html
 
-- title: Coding
+- title: Theme documentation
   folderitems:
   - title: Home
     url: /index.html
 
-  - title: Sample 1 
+  - title: Sample 1 really long title that will wrap
     url: /sample1.html
 
-    subfolders:
-    - title: HTML
-      subfolderitems:
+  - title: Sample 2 really long title that will wrap even longer
+    url: /sample2.html
 
-      - title: Sublevel 1
-        url: /sublevel1.html
-    
-    subfolders:
-    - title: CSS
-      subfolderitems:
-
-      - title: Sublevel 1
-        url: /sublevel1.html
+  - title: Sample 3
+    url: /sample3.html
 
     subfolders:
-    - title: SASS
+    - title: Second level deep
       subfolderitems:
 
       - title: Sublevel 1
         url: /sublevel1.html
 
-    subfolders:
-    - title: BootStrap
-      subfolderitems:
+      - title: Sublevel 2
+        url: /sublevel2.html
 
-      - title: Sublevel 1
-        url: /sublevel1.html
+      - title: Sublevel 3
+        url: /sublevel3.html
 
-    subfolders:
-    - title: GitHub
-      subfolderitems:
+        subsubfolders:
+        - title: Third level deep
+          subsubfolderitems:
 
-      - title: Sublevel 1
-        url: /sublevel1.html
+          - title: Sub-sublevel 1
+            url: /subsublevel1.html
 
-    subfolders:
-    - title: JavaScript
-      subfolderitems:
+          - title: Sub-sublevel 2
+            url: /subsublevel2.html
 
-      - title: Sublevel 1
-        url: /sublevel1.html
+          - title: Sub-sublevel 3
+            url: /subsublevel3.html
 
-    subfolders:
-    - title: React
-      subfolderitems:
-
-      - title: Sublevel 1
-        url: /sublevel1.html
-
-    subfolders:
-    - title: TypeScript
-      subfolderitems:
-
-      - title: Sublevel 1
-        url: /sublevel1.html
-
-    subfolders:
-    - title: 마크다운
-      subfolderitems:
-
-      - title: Sublevel 1
-        url: /sublevel1.html        
-
-    subfolders:
-    - title: Webpack
-      subfolderitems:
-
-      - title: Sublevel 1
-        url: /sublevel1.html
-
-    subfolders:
-    - title: UX
-      subfolderitems:
-
-      - title: Sublevel 1
-        url: /sublevel1.html        
-
-- title: Another folder level
+- title: HTML
   folderitems:
   - title: Home
     url: /index.html
@@ -143,6 +98,146 @@ folders:
   - title: Thing 3
     url: /thing3.html
 
+
+- title: CSS
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html
+
+- title: JavaScript
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html
+
+- title: SASS
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html
+
+- title: BootStrap
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html       
+
+- title: GitHub
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html  
+
+- title: React
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html  
+
+- title: TypeScript
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html 
+
+- title: 마크다운
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html
+
+- title: Webpack
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html 
+
+- title: UX
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Thing 1
+    url: /thing1.html
+
+  - title: Thing 2
+    url: /thing2.html
+
+  - title: Thing 3
+    url: /thing3.html                      
 ###########################
 
 related_resources_title: Other Resources
