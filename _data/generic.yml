@@ -44,6 +44,91 @@ folders:
           - title: Sub-sublevel 3
             url: /subsublevel3.html
 
+- title: Coding
+  folderitems:
+  - title: Home
+    url: /index.html
+
+  - title: Sample 1 
+    url: /sample1.html
+
+    subfolders:
+    - title: HTML
+      subfolderitems:
+
+      - title: Sublevel 1
+        url: /sublevel1.html
+    
+    subfolders:
+    - title: CSS
+      subfolderitems:
+
+      - title: Sublevel 1
+        url: /sublevel1.html
+
+    subfolders:
+    - title: SASS
+      subfolderitems:
+
+      - title: Sublevel 1
+        url: /sublevel1.html
+
+    subfolders:
+    - title: BootStrap
+      subfolderitems:
+
+      - title: Sublevel 1
+        url: /sublevel1.html
+
+    subfolders:
+    - title: GitHub
+      subfolderitems:
+
+      - title: Sublevel 1
+        url: /sublevel1.html
+
+    subfolders:
+    - title: JavaScript
+      subfolderitems:
+
+      - title: Sublevel 1
+        url: /sublevel1.html
+
+    subfolders:
+    - title: React
+      subfolderitems:
+
+      - title: Sublevel 1
+        url: /sublevel1.html
+
+    subfolders:
+    - title: TypeScript
+      subfolderitems:
+
+      - title: Sublevel 1
+        url: /sublevel1.html
+
+    subfolders:
+    - title: 마크다운
+      subfolderitems:
+
+      - title: Sublevel 1
+        url: /sublevel1.html        
+
+    subfolders:
+    - title: Webpack
+      subfolderitems:
+
+      - title: Sublevel 1
+        url: /sublevel1.html
+
+    subfolders:
+    - title: UX
+      subfolderitems:
+
+      - title: Sublevel 1
+        url: /sublevel1.html        
+
 - title: Another folder level
   folderitems:
   - title: Home
@@ -58,160 +143,6 @@ folders:
   - title: Thing 3
     url: /thing3.html
 
-- title: HTML
-  folderitems:
-  - title: Home
-    url: /index.html
-
-  - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html
-
-
-- title: CSS
-  folderitems:
-  - title: Home
-    url: /index.html
-
-  - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html
-
-- title: JavaScript
-  folderitems:
-  - title: Home
-    url: /index.html
-
-  - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html
-
-- title: SASS
-  folderitems:
-  - title: Home
-    url: /index.html
-
-  - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html
-
-- title: BootStrap
-  folderitems:
-  - title: Home
-    url: /index.html
-
-  - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html       
-
-- title: GitHub
-  folderitems:
-  - title: Home
-    url: /index.html
-
-  - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html  
-
-- title: React
-  folderitems:
-  - title: Home
-    url: /index.html
-
-  - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html  
-
-- title: TypeScript
-  folderitems:
-  - title: Home
-    url: /index.html
-
-  - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html 
-
-- title: 마크다운
-  folderitems:
-  - title: Home
-    url: /index.html
-
-  - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html
-
-- title: Webpack
-  folderitems:
-  - title: Home
-    url: /index.html
-
-  - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html 
-
-- title: UX
-  folderitems:
-  - title: Home
-    url: /index.html
-
-  - title: Thing 1
-    url: /thing1.html
-
-  - title: Thing 2
-    url: /thing2.html
-
-  - title: Thing 3
-    url: /thing3.html                      
 ###########################
 
 related_resources_title: Other Resources
