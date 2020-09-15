@@ -2,6 +2,7 @@ sidebarTitle: Generic sidebar
 owner: BaekKyoungMan
 
 ## Keep this commented out content because it shows the YAML model for the sidebar.
+## 사이드바 영역
 
 folders:
 - title: Theme documentation

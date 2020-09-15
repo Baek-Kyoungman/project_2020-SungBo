@@ -1,10 +1,14 @@
 ## Topnav single links
 ## if you want to list an external url, use url instead of url. the theme will apply a different link base.
+## navbar 카테고리 영역
+
+## 드롭다운 X 싱글 카테고리
 navbar_singleitems:
 - items:
     - title: Github Repo
       url: https://github.com/Baek-Kyoungman?tab=repositories
 
+## 드롭다운 카데고리
 #Topnav dropdowns
 navbar_dropdowns:
 - folders:
