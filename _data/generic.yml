@@ -13,11 +13,8 @@ folders:
   - title: 프론트엔드 개발자 로드맵
     url: /fe.html
 
-  - title: Sample 2 really long title that will wrap even longer
-    url: /sample2.html
-
     subfolders:
-    - title: Second level deep
+    - title: test folders
       subfolderitems:
 
       - title: Sublevel 1
