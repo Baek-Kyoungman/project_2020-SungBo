@@ -14,29 +14,45 @@ navbar_dropdowns:
 - folders:
     - title: Tags
       folderitems:
-        - title: Getting started
-          url: /tag-getting-started.html
+      - title: HTML
+        tag_name: getting-started
+        url: /tag-getting-started.html
 
-        - title: Content types
-          url: /tag-content-types.html
+      - title: CSS
+        tag_name: content-types
+        url: /tag-content-types.html
 
-        - title: Navigation
-          url: /tag-navigation.html
+      - title: SASS
+        tag_name: navigation
+        url: /tag-navigation.html
 
-        - title: Formatting
-          url: /tag-formatting.html
+      - title: Git/GitHub
+        tag_name: formatting
+        url: /tag-formatting.html
 
-        - title: Publishing
-          url: /tag-publishing.html
+      - title: BootStrap
+        tag_name: publishing
+        url: /tag-publishing.html
 
-        - title: Single-sourcing
-          url: /tag-single-sourcing.html
+      - title: JavaScript
+        tag_name: single-sourcing
+        url: /tag-single-sourcing.html
 
-        - title: Collaboration
-          url: /tag-collaboration.html
+      - title: React
+        tag_name: collaboration
+        url: /tag-collaboration.html
 
-        - title: Troubleshooting
-          url: /tag-troubleshooting.html
+      - title: MarkDown
+        tag_name: troubleshooting
+        url: /tag-troubleshooting.html
+
+      - title: Webpack
+        tag_name: troubleshooting
+        url: /tag-troubleshooting.html
+
+      - title: UX
+        tag_name: troubleshooting
+        url: /tag-troubleshooting.html
 ##    - title: Other Resources
 ##      folderitems:
 ##        - title: Github Repo
