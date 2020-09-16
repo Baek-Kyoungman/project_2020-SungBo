@@ -48,7 +48,7 @@ folders:
         - title: Third level deep
           subsubfolderitems:
 
-          - title: Sub-sublevel 1
+          - title: Sub-sublevel 2
             url: /subsublevel1.html
 
           - title: Sub-sublevel 2
@@ -57,100 +57,6 @@ folders:
           - title: Sub-sublevel 3
             url: /subsublevel3.html
 
-- title: Theme documentation
-  folderitems:
-  - title: Home
-    url: /index.html
-
-  - title: Sample 1 really long title that will wrap
-    url: /sample1.html
-
-  - title: Sample 2 really long title that will wrap even longer
-    url: /sample2.html
-
-  - title: Sample 3
-    url: /sample3.html
-
-    subfolders:
-    - title: Second level deep
-      subfolderitems:
-
-      - title: Sublevel 1
-        url: /sublevel1.html
-
-      - title: Sublevel 2
-        url: /sublevel2.html
-
-      - title: Sublevel 3
-        url: /sublevel3.html
-
-        subsubfolders:
-        - title: Third level deep
-          subsubfolderitems:
-
-          - title: Sub-sublevel 1
-            url: /subsublevel1.html
-
-          - title: Sub-sublevel 2
-            url: /subsublevel2.html
-
-          - title: Sub-sublevel 3
-            url: /subsublevel3.html
-
-- title: HTML
-  folderitems:
-  - title: h1
-    url: /h1.html
-
-- title: CSS
-  folderitems:
-  - title: Thing 1
-    url: /c1.html
-
-- title: JavaScript
-  folderitems:
-  - title: Thing 1
-    url: /j1.html
-
-- title: SASS
-  folderitems:
-  - title: Thing 1
-    url: /s1.html
-
-- title: BootStrap
-  folderitems:
-  - title: Thing 1
-    url: /b1.html
-
-- title: GitHub
-  folderitems:
-  - title: Thing 1
-    url: /g1.html
-
-- title: React
-  folderitems:
-  - title: Thing 1
-    url: /r1.html
-
-- title: TypeScript
-  folderitems:
-  - title: Thing 1
-    url: /t1.html
-
-- title: 마크다운
-  folderitems:
-  - title: Thing 1
-    url: /m1.html
-
-- title: Webpack
-  folderitems:
-  - title: Thing 1
-    url: /w1.html
-
-- title: UX
-  folderitems:
-  - title: Thing 1
-    url: /u1.html
                    
 ###########################
 
