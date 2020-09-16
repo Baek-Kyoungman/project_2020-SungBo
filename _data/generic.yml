@@ -11,7 +11,7 @@ folders:
     url: /index.html
 
   - title: 프론트엔드 개발자 로드맵
-    url: /fe.html
+    url: /blog/fe.html
 
   - title: Sample 1 really long title that will wrap
     url: /sample1.html
