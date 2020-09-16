@@ -11,10 +11,22 @@ folders:
     url: /index.html
 
   - title: 프론트엔드 개발자 로드맵
-    url: /blog/fe.html
+    url: /fe.html
 
   - title: 인터넷
-    url: /blog/internet.html
+    url: /internet.html
+
+  - title: HTML
+    url: /HTML.html
+
+  - title: CSS
+    url: /CSS.html
+
+  - title: JavaScript
+    url: /JavaScript.html
+
+  - title: 버전관리
+    url: /Git.html
 
   - title: Sample 2 really long title that will wrap even longer
     url: /sample2.html

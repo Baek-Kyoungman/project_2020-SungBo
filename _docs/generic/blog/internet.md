@@ -5,8 +5,6 @@ sidebar: generic
 tags: [Front-End]
 product: Generic
 ---
-# 인터넷
-
 ## 01. 인터넷
 
 ### 01) 인터넷은 어떻게 작동 될까요?

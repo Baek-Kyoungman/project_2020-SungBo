@@ -23,7 +23,7 @@ product: Generic
 
 
 ## 01. 인터넷
-    url: /blog/internet.html
+    url: /internet.html
 
 ## 02. HTML
 
