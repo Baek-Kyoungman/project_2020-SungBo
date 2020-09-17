@@ -331,8 +331,6 @@ yarn은 npm보다 고속, 보안, 신뢰성이 좋고 또한 오프라인 모드
 
 #### SASS
 
-#### ![sass](C:\Users\USER\Desktop\sass.png)
-
 ##### 정의
 
 SASS는 CSS를 만들어주는 언어로 자바스크립트처럼 특정 속성(ex. color, margin, width ...)의 값(ex. #000 3px, 420px ...)을 변수로 선언하여 필요한 곳에 선언된 변수를 적용할 수도 있고, 반복되는 코드를 한번의 선언으로 여러 곳에서 재사용할 수 있도록 해주는 등의 기능을 가졌다.
@@ -344,8 +342,6 @@ SASS는 CSS를 만들어주는 언어로 자바스크립트처럼 특정 속성(
 ### 모듈번들러
 
 #### Webpack
-
-#### ![das](C:\Users\USER\Desktop\das.png)
 
 ##### 정의
 
