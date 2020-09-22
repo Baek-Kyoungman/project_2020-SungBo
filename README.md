@@ -10,11 +10,13 @@
   
 ## 작업 일지
 
+  1. 소개서 : 작성 중
   1. 화면 설계서 : 작성 중 
   1. WBS : 작성 중 
   
  ## 적용 기술
  
   1. JavaScript
-  1. React
+  1. React(yarn 방식)
   1. Node.Js
+  1. BootStrap
